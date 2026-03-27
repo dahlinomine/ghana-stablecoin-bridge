@@ -1,0 +1,10 @@
+{
+  "name": "ghana-stablecoin-bridge",
+  "version": "0.1.0",
+  "description": "Smart contracts for bridging local eCedi infrastructure to global stablecoin liquidity.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
